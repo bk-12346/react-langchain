@@ -30,8 +30,8 @@ Installation
     Bash
 
     ```
-    git clone [your-repository-url]
-    cd [your-project-directory]
+    git clone https://github.com/bk-12346/react-langchain
+    cd react-langchain
 
     ```
 
