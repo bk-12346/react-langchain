@@ -18,7 +18,7 @@ Prerequisites
 
 Before running this project, you need to have Python installed. You also need to set up your OpenAI API key.
 
--   **Python 3.8+**
+-   **Python 3.10+**
 
 -   **OpenAI API Key**: Sign up for an account and get your API key from the [OpenAI platform](https://platform.openai.com/).
 
